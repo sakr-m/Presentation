@@ -1,6 +1,6 @@
 ---
 title: "Rの導入"
-subtitle: "Hijiyama.R #5"
+subtitle: "Test"
 author: "kazutan"
 output: 
   revealjs::revealjs_presentation:
